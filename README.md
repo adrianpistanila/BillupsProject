@@ -15,7 +15,6 @@ Retrieves a randomly generated choice
 ● POST: /play
 Plays a round against a computer opponent
 
-Running the project locally:
 
 #### Running the project locally:
 
